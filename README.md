@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+因涉及部分法律问题，故放弃后续开发，目前有实时时间流功能
+
+flutter版本：2.0.0 以上即可
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
